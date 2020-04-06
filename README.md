@@ -1,3 +1,6 @@
+This project allows a user to browse dogs.You can find dog names in DogDetails page which leads you to individual dog page without refreshing or get request by individual Links and Routes. All have done by dinamic data, so you can add a new dog info as much as you want.They will appear immediately in DogDetails page,to browse.This project also uses bootstrap to add a responsive navbar and grid layout.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
